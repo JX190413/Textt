@@ -5,6 +5,6 @@ public class Lich
 
 	public String lll;
 	public void XLY(){
-		System.out.println("路易");
+		System.out.println("路易1");
 	}
 }
